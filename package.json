@@ -1,0 +1,14 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Imam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
