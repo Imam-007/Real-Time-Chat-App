@@ -26,7 +26,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd Real_Time_Chat_App
 ```
 
 Install dependencies
