@@ -1,4 +1,4 @@
-# Talk-A-Tive
+# ChatUp
 
 ChatUp is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
@@ -15,14 +15,12 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 [https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Imam-007/Real_Time_Chat_App.git
 ```
 
 Go to the project directory
@@ -60,35 +58,19 @@ Start the Client
 
 ### Authenticaton
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
-
-### Real Time Chatting with Typing indicators
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/Imam-007/Real_Time_Chat_App/blob/main/screenshots/1.png)
+![](https://github.com/Imam-007/Real_Time_Chat_App/blob/main/screenshots/2.png)
 
 ### One to One chat
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
-
-### Search Users
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/Imam-007/Real_Time_Chat_App/blob/main/screenshots/3.png)
 
 ### Create Group Chats
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/Imam-007/Real_Time_Chat_App/blob/main/screenshots/5.png)
 
-### Notifications
+### View user Profile
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-
-### Add or Remove users from group
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-
-### View Other user Profile
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/Imam-007/Real_Time_Chat_App/blob/main/screenshots/4.png)
 
 ## Made By
