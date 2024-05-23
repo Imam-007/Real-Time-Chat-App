@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-[https://chat-up-iik1.onrender.com/](https://chat-up-iik1.onrender.com)
+[https://chat-up-iik1.onrender.com](https://chat-up-iik1.onrender.com)
 
 ## Run Locally
 
@@ -75,4 +75,4 @@ Start the Client
 
 ## Made By
 
-[@Imam/](https://github.com/Imam-007)
+[@Imam](https://github.com/Imam-007)
