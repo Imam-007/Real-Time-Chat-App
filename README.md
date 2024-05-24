@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[https://chat-up-iik1.onrender.com](https://chat-up-iik1.onrender.com)
 
 ## Run Locally
 
@@ -74,3 +74,5 @@ Start the Client
 ![](https://github.com/Imam-007/Real_Time_Chat_App/blob/main/screenshots/4.png)
 
 ## Made By
+
+[@Imam](https://github.com/Imam-007)
